@@ -13,6 +13,3 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3830016489
 - `Script/AutoRestore.as` — AngelScript gameplay effect and player-state hook
 
 
-## License
-
-No license has been selected yet. Until one is added, the source remains under the default copyright restrictions.
