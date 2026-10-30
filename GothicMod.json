@@ -1,0 +1,21 @@
+{
+	"name": "SassyQueen-SimpleHPandMPregen",
+	"title": "Simple HP and MP regen",
+	"author": "SassyQueen",
+	"projectWebsiteURL": "",
+	"description": "Restores 1% of maximum HP and MP per second outside combat.",
+	"modVersion": "0.0.1",
+	"metadata":
+	{
+		"SteamWorkshopID": "3830016489"
+	},
+	"scriptPreprocessorDefines": [],
+	"tags": [],
+	"loadOrder": "Normal",
+	"dependencies": [
+		{
+			"name": "G1R",
+			"requiredVersion": ">=1.0.6"
+		}
+	]
+}
